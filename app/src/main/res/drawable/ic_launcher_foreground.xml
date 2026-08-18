@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (21 to 87) -->
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Golden Pipe Wrench -->
+        <path
+            android:fillColor="#F7931E"
+            android:pathData="M38,70 L34,74 C32.5,75.5 32.5,78 34,79.5 C35.5,81 38,81 39.5,79.5 L45,74 L42,71 L38,70 Z" />
+        <path
+            android:fillColor="#FFA726"
+            android:pathData="M43,69 L67,45 C68,44 69.5,44 70.5,45 C71.5,46 71.5,47.5 70.5,48.5 L46.5,72.5 L43,69 Z" />
+        <path
+            android:fillColor="#FFE0B2"
+            android:pathData="M66,41 C64,39 63.5,36 65,33.5 C66.5,31 69.5,30 72,31.5 L75,28.5 C76,27.5 78,27.5 79,28.5 C80,29.5 80,31.5 79,32.5 L76,35.5 C77.5,38 76.5,41 74,42.5 C71.5,44 68.5,43.5 66,41 Z" />
+
+        <!-- Crossed Silver/White Pipe / Hammer -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M70,70 L74,74 C75.5,75.5 75.5,78 74,79.5 C72.5,81 70,81 68.5,79.5 L63,74 L66,71 L70,70 Z" />
+        <path
+            android:fillColor="#E2E8F0"
+            android:pathData="M65,69 L41,45 C40,44 38.5,44 37.5,45 C36.5,46 36.5,47.5 37.5,48.5 L61.5,72.5 L65,69 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M42,41 C44,39 44.5,36 43,33.5 C41.5,31 38.5,30 36,31.5 L33,28.5 C32,27.5 30,27.5 29,28.5 C28,29.5 28,31.5 29,32.5 L32,35.5 C30.5,38 31.5,41 34,42.5 C36.5,44 39.5,43.5 42,41 Z" />
+
+        <!-- Center Nut / Bolt Badge -->
+        <path
+            android:fillColor="#F7931E"
+            android:pathData="M54,48 C50.7,48 48,50.7 48,54 C48,57.3 50.7,60 54,60 C57.3,60 60,57.3 60,54 C60,50.7 57.3,48 54,48 Z M54,56 C52.9,56 52,55.1 52,54 C52,52.9 52.9,52 54,52 C55.1,52 56,52.9 56,54 C56,55.1 55.1,56 54,56 Z" />
+    </group>
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "V K Traders",
+  "description": "Hardware, plumbing, sanitary products and tools store for V K Traders & Hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
